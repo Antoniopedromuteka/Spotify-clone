@@ -13,11 +13,11 @@ module.exports = {
         "green-main": "#1ed760"
       },
       backgroundImage: theme =>({
-        "spotify-theme": "url('/img/brusts.svg')",
-        "spotify-theme-mobile": "url('/img/brusts-mobile.svg')"
+        'spotify-theme': "url('/img/bursts.svg')",
+        'spotify-theme-mobile': "url('/img/bursts-mobile.svg')"
       }),
       backgroundSize:{
-        "177%": "175%",
+        "175%": "175%",
         "195%": "195%"
       },
       backgroundPosition:{
